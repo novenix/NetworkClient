@@ -25,6 +25,10 @@ this server also is boostraped, you can see the styles in action in:
 
     http://localhost:35000/album/index.html
 
+to run pls
+
+    java -cp networkClient-1.0-SNAPSHOT.jar edu.escuelaing.edu.co.httpServer.HttpServer
+
 
 ## socket
 this program have to different classes, first one is the EchoClient and the other EchoServer, to get in, you must run first the EchoServer and ther the EchoClient, you can send messages from the client and will be recievend and replied with the same message from the server
